@@ -8,7 +8,7 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://isabelmd.github.io
+url: https://IsabelMD.github.io
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /Colecci-ndigital_NegraCallejera
 # location of code, the full url to your github repository
@@ -20,7 +20,7 @@ source-code: https://github.com/IsabelMD/Colecci-ndigital_NegraCallejera
 # title of site appears in banner
 title: DigitalCollection_NegraCallejera 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline:  HACKEAMOS DIGITALMENTE LAS MIRADAS ESTEREOTIPADAS SOBRE NUESTROS CUERPOS, DESDE NUESTRAS VOCES Y EXPERIENCIAS
+tagline:  "HACKEAMOS DIGITALMENTE LAS MIRADAS ESTEREOTIPADAS SOBRE NUESTROS CUERPOS, DESDE NUESTRAS VOCES Y EXPERIENCIAS"
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "Negra Callejera es un proyecto de investigación y creación de una plataforma digital, que busca hackear los imaginarios estereotipados sobre los cuerpos de las mujeres negras — haciendo uso de estos mismos."
@@ -52,8 +52,8 @@ metadata: nc-metadata
 #
 # organization-name: "Center for Digital Inquiry and Learning (CDIL)"
 # organization-link: https://cdil.lib.uidaho.edu/
- organization-logo-banner: https://github.com/IsabelMD/Colecci-ndigital_NegraCallejera/blob/main/objects/LOGO_NC.png
- organization-logo-nav: https://github.com/IsabelMD/Colecci-ndigital_NegraCallejera/blob/main/objects/LOGO_NC.png
+organization-logo-banner: https://github.com/IsabelMD/Colecci-ndigital_NegraCallejera/blob/main/objects/LOGO_NC.png
+organization-logo-nav: https://github.com/IsabelMD/Colecci-ndigital_NegraCallejera/blob/main/objects/LOGO_NC.png
 
 ##########
 # GOOGLE SERVICES [optional!]
@@ -82,4 +82,4 @@ exclude: [docs/, Rakefile, README.md, LICENSE]
 sass:
   style: compressed
 
-theme: jekyll-theme-slate
+# theme: jekyll-theme-slate
