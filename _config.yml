@@ -20,10 +20,10 @@ source-code: https://github.com/IsabelMD/Colecci-ndigital_NegraCallejera
 # title of site appears in banner
 title: DigitalCollection_NegraCallejera 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline:  "HACKEAMOS DIGITALMENTE LAS MIRADAS ESTEREOTIPADAS SOBRE NUESTROS CUERPOS, DESDE NUESTRAS VOCES Y EXPERIENCIAS"
+tagline:  "Hackeamos digitalmente las miradas estereotipadas sobre nuestros cuerpos, desde nuestras voces y experiencias."
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Negra Callejera es un proyecto de investigación y creación de una plataforma digital, que busca hackear los imaginarios estereotipados sobre los cuerpos de las mujeres negras — haciendo uso de estos mismos."
+description: "Negra Callejera es un proyecto de investigación y creación de una plataforma digital, que busca hackear los imaginarios estereotipados sobre los cuerpos de las mujeres negras; haciendo uso de estos mismos."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: Mujeres Negras;Narrativas;Estereotipos;
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
@@ -52,8 +52,8 @@ metadata: nc-metadata
 #
 # organization-name: "Center for Digital Inquiry and Learning (CDIL)"
 # organization-link: https://cdil.lib.uidaho.edu/
-organization-logo-banner: https://github.com/IsabelMD/Colecci-ndigital_NegraCallejera/blob/main/objects/LOGO_NC.png
-organization-logo-nav: https://github.com/IsabelMD/Colecci-ndigital_NegraCallejera/blob/main/objects/LOGO_NC.png
+organization-logo-banner: /objects/LOGO_NC.png
+organization-logo-nav: /objects/LOGO_NC.png
 
 ##########
 # GOOGLE SERVICES [optional!]

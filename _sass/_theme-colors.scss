@@ -23,11 +23,11 @@ $yiq-text-light:            #fff !default;
 
 /* mixin to generate buttons */
 @mixin theme-button($background, $border, $hover-background: darken($background, 7.5%), $hover-border: darken($border, 10%), $active-background: darken($background, 10%), $active-border: darken($border, 12.5%)) {
-    color: #fff;
+    color: #000000;
     background-color: $background;
     border-color: $border;
     &:hover {
-        color: #fff;
+        color: #ffff00;
         background-color: $hover-background;
         border-color: $hover-border;
     }
@@ -36,7 +36,7 @@ $yiq-text-light:            #fff !default;
     }
     &:not(:disabled):not(.disabled):active, &:not(:disabled):not(.disabled).active,
     .show > &.dropdown-toggle {
-        color: #fff;
+        color: #000000;
         background-color: $active-background;
         border-color: $active-border;
     }
