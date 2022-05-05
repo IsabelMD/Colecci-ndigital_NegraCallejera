@@ -23,7 +23,7 @@ browse-buttons: false # true / false, adds previous/next arrows to items, but in
 ##########
 # SUBJECTS PAGE
 #
-subjects-fields: subject;category;Region # set of fields separated by ; to be featured in the cloud (leave blank or comment out to not generate)
+subjects-fields: subject;category # set of fields separated by ; to be featured in the cloud (leave blank or comment out to not generate)
 subjects-min: 5 # min size for subject cloud, too many terms = slow load time!
 subjects-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
 
@@ -59,9 +59,9 @@ year-nav-increment: 5 # set increments to auto gen nav years
 # 
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
 # comma delimited list, reference url is automatic
-metadata-export-fields: "title,,type,format,language,rights"
+metadata-export-fields: "title,category,format,rights"
 # generate a facets list for given fields, comma delimited
-metadata-facets-fields: "subject,format"
+metadata-facets-fields: "objectid,category,subject"
 
 ##########
 # ADVANCED OPTIONS
